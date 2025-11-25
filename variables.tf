@@ -7,5 +7,5 @@ variable "aws_region" {
 variable "bucket_name" {
   description = "Unique S3 bucket name for website"
   type        = string
-  default     = "vasu-simple-website-bucket-11/26/2025"
+  default     = "vasu-simple-website-bucket-11262025"
 }
